@@ -1,0 +1,37 @@
+.bg-color{
+    background-color: #feeae9;
+    border-radius: 10px;
+}
+.margin{
+    margin-bottom: 25px;
+}
+.button{
+    border-radius: 10px;
+    background-color: salmon;
+    color: seashell;
+}
+h2{
+    color: rgb(214, 41, 70);
+}
+.categories{
+    margin-top: 20px;
+    color: white;
+}
+.categories img{
+    width: 120px;
+}
+.categories1{
+    padding: 15px 20px;
+    background-color: yellowgreen;
+    border-radius: 10px;
+}
+.categories2{
+    padding: 15px 20px;
+    background-color: turquoise;
+    border-radius: 10px;
+}
+.categories3{
+    padding: 15px 20px;
+    background-color: violet;
+    border-radius: 10px;
+}
