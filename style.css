@@ -35,3 +35,14 @@ h2{
     background-color: violet;
     border-radius: 10px;
 }
+.card{
+    border:none;
+    border-radius: 10px;
+    box-shadow: lightgray 5px 5px 10px;
+}
+.container{
+    margin-bottom: 20px;
+}
+h5{
+    color: rgb(214, 41, 70);
+}
